@@ -85,7 +85,6 @@ h1 {
 }
 .header__item {
   display: inline-block;
-  float: left;
 }
 .menu-icon__line {
   width: 1.5rem;
@@ -121,7 +120,6 @@ h1 {
   font-size: 1rem;
   display: inline-block;
   transform: rotate(-90deg) translateY(50%);
-  float: left;
   position: relative;
   top: 40%;
   letter-spacing: 0.2rem;
